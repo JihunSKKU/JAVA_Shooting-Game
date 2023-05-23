@@ -1,6 +1,8 @@
 # JAVA_Shooting-Game
 JAVA Programming 개인 Project
 
+shooting game_report.pdf를 참고해주세요!
+
 사용된 기술 및 도구: Window Builder, AWT, Swing, KeyListener interface, FileStream, Comparable interface, Exception handling, Multi-threading, etc..
 
 주요 기능:
