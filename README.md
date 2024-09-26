@@ -15,6 +15,6 @@ JAVA Programming 개인 Project
 -   Exception Handling를 통해 여러 오류를 잡고, 게임이 중단되지 않도록 예외 상황을 처리했습니다. (버그가 발생한 경우 printStackTrace를 통해 확인 가능)
 -   Multi-threading을 활용하여 게임의 진행이 원활하게 이루어지도록 처리했습니다.
 
-### How to use
+## How to use
 
 If you want to play this game, click on `Shooting Star.jar` and enjoy!
